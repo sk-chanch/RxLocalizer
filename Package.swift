@@ -13,7 +13,7 @@ let package = Package(
     name: "RxLocalizer",
     
     platforms: [
-        .iOS(.v12),
+        .iOS(.v11),
         .tvOS(.v10),
         .macOS(.v10_12),
         .watchOS(.v3)
